@@ -6,6 +6,11 @@
 
 * DDD
 
+* [MEF](https://blog.csdn.net/gjysk/article/details/44648505)
+
+    (https://www.cnblogs.com/wintersun/archive/2013/01/16/2863405.html)
+    (https://github.com/microsoftarchive/mef/blob/master/Wiki/Home.md)
+
 * [WTM](https://wtmdoc.walkingtec.cn/)
 
 
